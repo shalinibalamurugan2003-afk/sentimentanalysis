@@ -1,0 +1,101 @@
+review_id,platform,app_name,review_text,rating,date,main_aspect,sentiment_label,user_verified,helpfulness_count
+REV_0001,Reddit,TherapyChat,Neither impressed nor disappointed. It's functional.,3,2025-11-05,quality,neutral,True,10
+REV_0002,Trustpilot,MindPeace,Platform is okay. Depends on which therapist you get.,3,2024-03-14,user_experience,neutral,False,43
+REV_0003,Google Play Store,Talkspace,The therapists are not well-trained. Felt like they were reading scripts.,2,2024-09-07,quality,negative,True,43
+REV_0004,Twitter,MentalHealth+,This platform made therapy accessible to me. Changed my life!,5,2025-03-25,therapist_quality,positive,True,46
+REV_0005,Google Play Store,Headspace,The concept is good but execution could be better.,3,2024-08-05,user_experience,neutral,True,20
+REV_0006,Google Play Store,Talkspace,"Decent app, standard therapy experience through a screen.",3,2024-12-27,effectiveness,neutral,False,8
+REV_0007,Twitter,TherapyChat,Affordable and convenient. I can book sessions at my own time.,5,2024-03-06,authenticity,positive,True,46
+REV_0008,Twitter,Calm,Finally found a therapist who understands me. BetterHelp is a lifesaver!,5,2025-06-19,effectiveness,positive,True,41
+REV_0009,Twitter,Calm,"Decent app, standard therapy experience through a screen.",3,2025-12-04,quality,neutral,False,13
+REV_0010,Twitter,BetterHelp,Capitalism destroying mental health. This shouldn't be a luxury service.,2,2025-12-01,effectiveness,negative,True,15
+REV_0011,Twitter,Talkspace,The marketing is misleading. Not as effective as they claim.,2,2024-07-09,authenticity,negative,True,28
+REV_0012,Google Play Store,Talkspace,Way too expensive for what you get. Feels like they're just cashing in on mental health.,1,2025-05-09,convenience,negative,True,10
+REV_0013,Google Play Store,Headspace,Love that I can chat with a therapist anytime. Reduced my anxiety significantly.,4,2025-01-27,user_experience,positive,False,40
+REV_0014,Quora,MentalHealth+,Poor customer support and overpriced sessions.,2,2024-01-07,user_experience,negative,False,39
+REV_0015,Quora,Headspace,"Great app interface, therapists are professional and caring.",4,2025-08-09,cost,positive,False,13
+REV_0016,Apple App Store,Calm,Similar to other apps in the market. Standard quality.,3,2024-06-29,authenticity,neutral,True,31
+REV_0017,Twitter,MindPeace,Average experience. Met my expectations but nothing more.,3,2024-03-10,user_experience,neutral,True,44
+REV_0018,Trustpilot,Headspace,Average experience. Met my expectations but nothing more.,3,2025-05-13,effectiveness,neutral,False,41
+REV_0019,Twitter,Talkspace,Poor customer support and overpriced sessions.,1,2025-09-11,authenticity,negative,True,29
+REV_0020,Google Play Store,TherapyChat,"Tried it for a month. Felt like I was being sold a product, not helped.",1,2024-11-17,effectiveness,negative,True,26
+REV_0021,Quora,MentalHealth+,Average experience. Met my expectations but nothing more.,3,2024-08-20,accessibility,neutral,True,36
+REV_0022,Trustpilot,MindPeace,Does the job. Not revolutionary but effective enough.,3,2025-10-19,convenience,neutral,True,40
+REV_0023,Twitter,Talkspace,"It's a service. Does what it promises, nothing extraordinary.",3,2025-02-19,effectiveness,neutral,True,2
+REV_0024,Trustpilot,BetterHelp,Finally found a therapist who understands me. BetterHelp is a lifesaver!,5,2024-02-24,quality,positive,True,22
+REV_0025,Quora,Calm,Finally found a therapist who understands me. BetterHelp is a lifesaver!,4,2025-01-11,user_experience,positive,True,31
+REV_0026,Trustpilot,MentalHealth+,The concept is good but execution could be better.,3,2025-02-16,accessibility,neutral,True,37
+REV_0027,Quora,MindPeace,Average experience. Met my expectations but nothing more.,3,2025-08-06,accessibility,neutral,False,15
+REV_0028,Trustpilot,Talkspace,"Impersonal experience. Doesn't feel like real therapy, just a quick fix service.",2,2024-11-18,authenticity,negative,True,18
+REV_0029,Twitter,BetterHelp,Cancelled my subscription. Just another product trying to sell mental health.,2,2025-11-15,cost,negative,True,38
+REV_0030,Apple App Store,TherapyChat,Way too expensive for what you get. Feels like they're just cashing in on mental health.,1,2025-03-22,therapist_quality,negative,False,34
+REV_0031,Google Play Store,Calm,This platform made therapy accessible to me. Changed my life!,5,2025-06-29,cost,positive,True,11
+REV_0032,Google Play Store,Headspace,The concept is good but execution could be better.,3,2023-12-14,accessibility,neutral,False,2
+REV_0033,Twitter,Headspace,"Impersonal experience. Doesn't feel like real therapy, just a quick fix service.",2,2025-10-08,cost,negative,True,37
+REV_0034,Quora,BetterHelp,"Some features work well, others need improvement.",3,2024-03-26,accessibility,neutral,False,17
+REV_0035,Reddit,BetterHelp,Affordable and convenient. I can book sessions at my own time.,5,2024-05-16,authenticity,positive,False,32
+REV_0036,Trustpilot,BetterHelp,Average experience. Met my expectations but nothing more.,3,2025-04-22,convenience,neutral,True,11
+REV_0037,Quora,MindPeace,"It's like regular therapy but online. Works for some, not for others.",3,2024-12-14,effectiveness,neutral,False,44
+REV_0038,Trustpilot,Calm,Neither impressed nor disappointed. It's functional.,3,2024-09-13,user_experience,neutral,True,27
+REV_0039,Twitter,Wysa,"It's a service. Does what it promises, nothing extraordinary.",3,2025-03-02,convenience,neutral,True,34
+REV_0040,Quora,Wysa,Way too expensive for what you get. Feels like they're just cashing in on mental health.,2,2024-07-12,effectiveness,negative,False,34
+REV_0041,Google Play Store,MindPeace,The marketing is misleading. Not as effective as they claim.,2,2024-11-18,user_experience,negative,True,32
+REV_0042,Trustpilot,MentalHealth+,The flexibility is amazing. No more waiting for appointments.,5,2024-05-14,quality,positive,True,30
+REV_0043,Apple App Store,MentalHealth+,Cancelled my subscription. Just another product trying to sell mental health.,2,2025-10-21,therapist_quality,negative,False,1
+REV_0044,Google Play Store,BetterHelp,This platform made therapy accessible to me. Changed my life!,5,2024-03-18,accessibility,positive,False,38
+REV_0045,Reddit,Talkspace,Finally taking care of my mental health without breaking the bank.,5,2025-01-16,quality,positive,True,35
+REV_0046,Quora,MentalHealth+,Way too expensive for what you get. Feels like they're just cashing in on mental health.,2,2025-04-30,effectiveness,negative,False,22
+REV_0047,Quora,Headspace,Affordable and convenient. I can book sessions at my own time.,5,2025-12-01,cost,positive,True,21
+REV_0048,Twitter,Calm,"It's like regular therapy but online. Works for some, not for others.",3,2024-10-05,effectiveness,neutral,True,42
+REV_0049,Twitter,Talkspace,Finally found a therapist who understands me. BetterHelp is a lifesaver!,5,2024-01-27,authenticity,positive,True,3
+REV_0050,Trustpilot,TherapyChat,"Quality is inconsistent. Some therapists are great, others are dismissive.",2,2024-01-21,convenience,negative,False,12
+REV_0051,Google Play Store,MentalHealth+,"Tried it for a month. Felt like I was being sold a product, not helped.",2,2025-09-24,therapist_quality,negative,True,25
+REV_0052,Google Play Store,Talkspace,The flexibility is amazing. No more waiting for appointments.,5,2024-04-10,user_experience,positive,True,0
+REV_0053,Google Play Store,MentalHealth+,"It's like regular therapy but online. Works for some, not for others.",3,2025-06-17,user_experience,neutral,True,15
+REV_0054,Trustpilot,Talkspace,Platform is okay. Depends on which therapist you get.,3,2024-08-08,quality,neutral,True,36
+REV_0055,Quora,MindPeace,The flexibility is amazing. No more waiting for appointments.,4,2024-03-08,authenticity,positive,True,15
+REV_0056,Google Play Store,MindPeace,The flexibility is amazing. No more waiting for appointments.,4,2025-08-08,effectiveness,positive,True,9
+REV_0057,Apple App Store,Calm,"Quality is inconsistent. Some therapists are great, others are dismissive.",2,2024-06-02,accessibility,negative,True,0
+REV_0058,Apple App Store,BetterHelp,Average experience. Met my expectations but nothing more.,3,2023-12-21,authenticity,neutral,True,26
+REV_0059,Google Play Store,BetterHelp,The therapists are not well-trained. Felt like they were reading scripts.,1,2024-12-19,user_experience,negative,True,36
+REV_0060,Apple App Store,Headspace,"It's a service. Does what it promises, nothing extraordinary.",3,2025-01-25,authenticity,neutral,True,11
+REV_0061,Apple App Store,Headspace,Affordable and convenient. I can book sessions at my own time.,4,2025-04-17,therapist_quality,positive,True,7
+REV_0062,Quora,Calm,Does the job. Not revolutionary but effective enough.,3,2025-07-29,accessibility,neutral,True,3
+REV_0063,Trustpilot,Wysa,"Decent app, standard therapy experience through a screen.",3,2025-04-11,convenience,neutral,False,20
+REV_0064,Trustpilot,BetterHelp,"Quality is inconsistent. Some therapists are great, others are dismissive.",2,2025-03-06,accessibility,negative,True,17
+REV_0065,Reddit,Talkspace,Love that I can chat with a therapist anytime. Reduced my anxiety significantly.,4,2024-06-12,cost,positive,True,22
+REV_0066,Google Play Store,MindPeace,Poor customer support and overpriced sessions.,2,2024-09-03,authenticity,negative,False,21
+REV_0067,Twitter,Wysa,"Great app interface, therapists are professional and caring.",4,2025-08-08,cost,positive,False,8
+REV_0068,Reddit,Wysa,Best mental health investment I've made. Highly recommended!,4,2025-04-24,accessibility,positive,True,20
+REV_0069,Reddit,Wysa,Expensive and the matches with therapists are often poor.,2,2025-06-26,quality,negative,False,13
+REV_0070,Reddit,Headspace,Platform is okay. Depends on which therapist you get.,3,2024-05-16,accessibility,neutral,True,11
+REV_0071,Google Play Store,Wysa,Does the job. Not revolutionary but effective enough.,3,2025-04-10,effectiveness,neutral,True,12
+REV_0072,Apple App Store,Wysa,"Professional, discreet, and actually affordable. Worth every penny.",5,2025-08-30,user_experience,positive,True,18
+REV_0073,Twitter,BetterHelp,"It's a service. Does what it promises, nothing extraordinary.",3,2024-11-11,therapist_quality,neutral,False,44
+REV_0074,Trustpilot,Wysa,"Impersonal experience. Doesn't feel like real therapy, just a quick fix service.",2,2025-01-23,authenticity,negative,True,26
+REV_0075,Trustpilot,Wysa,"Great app interface, therapists are professional and caring.",4,2024-04-09,user_experience,positive,True,19
+REV_0076,Trustpilot,Wysa,"Professional, discreet, and actually affordable. Worth every penny.",4,2023-12-06,authenticity,positive,False,48
+REV_0077,Quora,Calm,Finally found a therapist who understands me. BetterHelp is a lifesaver!,5,2024-03-31,authenticity,positive,False,44
+REV_0078,Trustpilot,Talkspace,The flexibility is amazing. No more waiting for appointments.,5,2024-07-05,user_experience,positive,True,18
+REV_0079,Google Play Store,MindPeace,The therapists are not well-trained. Felt like they were reading scripts.,1,2024-07-25,therapist_quality,negative,True,2
+REV_0080,Apple App Store,MentalHealth+,Poor customer support and overpriced sessions.,1,2023-12-17,convenience,negative,False,11
+REV_0081,Twitter,Talkspace,The flexibility is amazing. No more waiting for appointments.,5,2024-04-05,quality,positive,True,49
+REV_0082,Trustpilot,MindPeace,The flexibility is amazing. No more waiting for appointments.,4,2025-11-08,therapist_quality,positive,True,32
+REV_0083,Quora,Calm,"Some features work well, others need improvement.",3,2024-08-14,accessibility,neutral,False,46
+REV_0084,Trustpilot,Wysa,"Tried it for a month. Felt like I was being sold a product, not helped.",2,2024-08-03,user_experience,negative,True,32
+REV_0085,Google Play Store,Headspace,The therapists are not well-trained. Felt like they were reading scripts.,2,2024-07-31,user_experience,negative,False,24
+REV_0086,Google Play Store,Headspace,Way too expensive for what you get. Feels like they're just cashing in on mental health.,1,2025-08-06,therapist_quality,negative,True,47
+REV_0087,Quora,Headspace,Finally found a therapist who understands me. BetterHelp is a lifesaver!,4,2025-09-10,user_experience,positive,True,36
+REV_0088,Quora,BetterHelp,Cancelled my subscription. Just another product trying to sell mental health.,1,2024-02-28,effectiveness,negative,True,44
+REV_0089,Apple App Store,Talkspace,"It's a service. Does what it promises, nothing extraordinary.",3,2025-04-06,therapist_quality,neutral,True,25
+REV_0090,Trustpilot,Headspace,"It's like regular therapy but online. Works for some, not for others.",3,2024-04-01,quality,neutral,False,43
+REV_0091,Reddit,Wysa,Similar to other apps in the market. Standard quality.,3,2025-01-09,effectiveness,neutral,False,38
+REV_0092,Apple App Store,Calm,Affordable and convenient. I can book sessions at my own time.,5,2024-10-06,effectiveness,positive,True,33
+REV_0093,Twitter,MindPeace,Therapist was knowledgeable and the app makes tracking progress easy.,4,2024-11-04,therapist_quality,positive,True,16
+REV_0094,Google Play Store,Calm,"Quality is inconsistent. Some therapists are great, others are dismissive.",2,2024-06-06,cost,negative,True,23
+REV_0095,Reddit,MindPeace,Therapist was knowledgeable and the app makes tracking progress easy.,4,2025-02-27,accessibility,positive,True,10
+REV_0096,Trustpilot,MindPeace,"Professional, discreet, and actually affordable. Worth every penny.",4,2024-06-05,convenience,positive,True,39
+REV_0097,Trustpilot,Headspace,Similar to other apps in the market. Standard quality.,3,2024-06-17,user_experience,neutral,False,18
+REV_0098,Reddit,MindPeace,The therapists are not well-trained. Felt like they were reading scripts.,2,2025-10-17,user_experience,negative,True,4
+REV_0099,Apple App Store,BetterHelp,Does the job. Not revolutionary but effective enough.,3,2024-01-20,effectiveness,neutral,True,26
+REV_0100,Quora,TherapyChat,"Professional, discreet, and actually affordable. Worth every penny.",4,2024-04-04,convenience,positive,False,47
